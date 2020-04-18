@@ -1,9 +1,7 @@
 # R-code
 
 #K-means Clustering
-We will use wine data for k means clustering example. The data is the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. The analysis determined the quantities of 13 constituents found in each of the three types of wines.
-The class variable, indicating three different cultivars, is represented by the three integers: 1 to 3. The rest attributes describing wine are presented below:
- 1) Alcohol; 2) Malic acid; 3) Ash; 4) Alcalinity of ash; 5) Magnesium; 6) Total phenols; 7) Flavanoids; 8) Nonflavanoid phenols; 9) Proanthocyanins; 10)Color intensity; 11)Hue; 12)OD280/OD315 of diluted wines; 13)Proline. These 13 attributes are all numeric. 
+We will use wine data for k means clustering example. The data is the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. The analysis determined the quantities of 13 constituents found in each of the three types of wines.The class variable, indicating three different cultivars, is represented by the three integers: 1 to 3. The rest attributes describing wine are presented below: 1) Alcohol; 2) Malic acid; 3) Ash; 4) Alcalinity of ash; 5) Magnesium; 6) Total phenols; 7) Flavanoids; 8) Nonflavanoid phenols; 9) Proanthocyanins; 10)Color intensity; 11)Hue; 12)OD280/OD315 of diluted wines; 13)Proline. These 13 attributes are all numeric. 
 The objective of using this data set for clustering practice is to see how to use clusters predicting wine class. 
 
 #Association Rule Mining for Books.csv
